@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0118-pascals-triangle) |
 | [0560-subarray-sum-equals-k](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
