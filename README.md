@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0088-merge-sorted-array) |
@@ -61,5 +62,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
