@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akashkumar6205/DSA-Platforms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0229-majority-element-ii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akashkumar6205/DSA-Platforms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akashkumar6205/DSA-Platforms/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akashkumar6205/DSA-Platforms/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Ternary Search
 |  |
 | ------- |
