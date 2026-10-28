@@ -3,18 +3,18 @@ class Solution {
         int rows = matrix.length;
         int cols = matrix[0].length;
 
-        int row = 0;
-        int col = cols - 1;
+        int lo = 0;
+        int hi = cols - 1;
 
-        while (row < rows && col >= 0) {
-            if (matrix[row][col] == target) {
+        while (lo < rows && hi >= 0) {
+            if (matrix[lo][hi] == target) {
                 return true;
             } 
-            else if (matrix[row][col] > target) {
-                col--;
+            else if (matrix[lo][hi] > target) {
+                hi--;
             } 
             else {
-                row++;
+                lo++;
             }
         }
 
